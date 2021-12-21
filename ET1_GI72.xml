@@ -1,0 +1,872 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.unicaen.fr/mrsh/pddn/schemas/TEI_archean/tei_archean.xsd"
+xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xxe="http://www.unicaen.fr/mrsh/pddn/xxe/1.0/"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:xs="http://www.w3.org/2001/XMLSchema"
+xmlns:teix="http://www.tei-c.org/ns/Examples"
+xmlns:ns="http://www.tei-c.org/ns/1.0"
+xmlns:dcr="http://www.isocat.org/ns/dcr"
+><teiHeader
+><fileDesc
+><titleStmt
+><title
+type="main"
+>Notice descriptive</title
+><author
+>Service d'archéologie – CRAHAM</author
+></titleStmt
+><editionStmt
+><edition
+><date
+></date
+></edition
+></editionStmt
+><publicationStmt
+><authority
+>Pôle Document numérique — CRAHAM</authority
+></publicationStmt
+><sourceDesc
+><p
+>Fichiers XML-TEI.</p
+></sourceDesc
+></fileDesc
+></teiHeader
+><text
+><body
+><div
+subtype="groupement_interpretations"
+type="chapitre"
+xml:id="ET1_GI72"
+><head
+>Unité 72 - État 1</head
+><p
+>Cette unité, localisée à l'est du hameau et au nord de la voie, constitue le premier état du secteur. Elle est occupée avant le XIV<hi
+rend="sup"
+>e</hi
+> siècle. Elle n'est pas délimitée dans l'espace. Elle se compose d'<ref
+target="ET1_GI72.xml#ET1_GI72_HAB72"
+>une maison</ref
+> en bordure du chemin et d'<ref
+target="ET1_GI72.xml#ET1_GI72_CUR72_1"
+>une cour</ref
+> se situant à l'est.</p
+><list
+type="GI_chronologie"
+><head
+>Localisation</head
+><item
+>Position dans le hameau : <term
+type="points_cardinaux"
+>est</term
+></item
+><item
+>Position par rapport à la voie : <term
+type="points_cardinaux"
+>nord</term
+></item
+></list
+><list
+type="GI_chronologie"
+><head
+>Chronologie initiale</head
+><item
+>Etat: <num
+type="etat"
+>1</num
+></item
+><item
+>Datation : Avant le <date
+notAfter="1299"
+notBefore="1250"
+type="datation_absolue"
+>XIV</date
+><hi
+rend="sup"
+>e</hi
+> siècle</item
+><item
+>Indicateurs utilisés :</item
+></list
+><list
+type="GI_infofouille"
+><head
+>Informations de fouille</head
+><item
+>Campagne de fouille : <date
+type="campagne"
+>1990-1991</date
+></item
+><item
+><list
+><head
+>Documentation associée</head
+><item
+>Classeur n° : <num
+>08</num
+><num
+>14</num
+><num
+>15</num
+><num
+>16</num
+></item
+><item
+>Cahier n° : <num
+>27</num
+></item
+><item
+>Diapositives n° : <num
+>13/13_31.jpg </num
+></item
+><item
+>Rapport : <bibl
+>...</bibl
+></item
+></list
+></item
+></list
+><list
+rend="non"
+type="GI_delimitation"
+><item
+>Nature : -</item
+><item
+>Superficie globale (m2) : <unit
+></unit
+></item
+><item
+>Surface bâtie : <unit
+></unit
+></item
+></list
+><list
+type="groupe_diapos"
+><head
+>Titre du groupe de diapo</head
+><item
+></item
+><figure
+place="margin"
+type="diapo"
+><graphic
+url="../../Diapositives_interpretations/13:13_33_ET1_GI72.png"
+></graphic
+><head
+>13/13_33_ET1_GI72</head
+><figDesc
+>Photographie du secteur 6 ; l'unité 72 au premier état est indiqué ; prise du sud-ouest.</figDesc
+></figure
+></list
+><note
+type="commentaires"
+>La délimitation de la cour à l'est correspond à la limite de fouille.</note
+><div
+subtype="entites_spatiales_structurees"
+type="section2"
+xml:id="ET1_GI72_HAB72"
+><head
+type="general"
+>Habitat 72</head
+><p
+>Il s'agit de l'habitat occupé durant <ref
+target="ET1_GI72.xml#ET1_GI72"
+>cet état</ref
+>. Cette maison correspond au premier bâtiment construit dans ce secteur, avant le XIV<hi
+rend="sup"
+>e</hi
+> siècle. Sa position est inhabituelle puisqu'elle est accolée au chemin alors que la plupart des maisons installées simultanément intègre une cour avant les séparant du chemin. Elle possède un plan trapézoïdal, mesure 7,5 x 7,5m et s'étend sur 37m2. Les matériaux constituant sa toiture sont inconnus mais les murs sont en moellons de calcaire. Elle est constituée de trois espaces intérieurs distincts.</p
+><list
+type="ESS_chronologie"
+><head
+>Chronologie initiale</head
+><item
+>État: <num
+type="etat"
+>1</num
+></item
+><item
+>Datation : Avant le <date
+notAfter="1299"
+notBefore="1250"
+type="datation_absolue"
+>XIV</date
+><hi
+rend="sup"
+>e</hi
+> siècle</item
+></list
+><list
+type="ESS_localisation"
+><head
+>Localisation</head
+><item
+>Accolée au chemin</item
+></list
+><list
+type="ESS_morphologie"
+><head
+>Morphologie générale</head
+><item
+>Plan : Trapézoïdal</item
+><item
+>Dimensions<list
+><item
+>L x l : <unit
+>7,5 x 7,5m</unit
+></item
+><item
+>Surface hors tout : <unit
+>56m2</unit
+></item
+><item
+>Surface utile : <unit
+>37m2</unit
+></item
+></list
+></item
+><item
+>Matériaux<list
+><item
+>Couverture : Inconnue</item
+><item
+>Murs : Moellons de calcaire</item
+></list
+></item
+></list
+><list
+type="ESS_fonction"
+><head
+>Fonction</head
+><item
+>Habitat principal</item
+></list
+><list
+type="groupe_diapos"
+><head
+>Titre du groupe de diapo</head
+><item
+></item
+><figure
+place="margin"
+type="diapo"
+><graphic
+url="../../Diapositives_interpretations/13:13_33.png"
+></graphic
+><head
+>13/13_33</head
+><figDesc
+>Photographie des trois états de l'habitat 72 superposés ; prise du sud-ouest (retouche DR)</figDesc
+></figure
+></list
+><note
+type="commentaires"
+>La longueur du bâtiment est estimée "sans trop de certitude"</note
+><div
+subtype="entites_spatiales"
+type="section2"
+xml:id="ET1_GI72_HAB72_ES1"
+><head
+type="general"
+>Habitat 72 - Pièce 1</head
+><p
+>La fonction de la <ref
+target="ET1_GI72.xml#ET1_GI72_HAB72_ES1"
+>première pièce</ref
+>, appelée « fosse a » par Marie-Claude Taupin, n’a pas été identifiée. Elle mesure 4 x 2m, est excavée de 0,3m et est située dans l’angle est de la moitié nord de l’habitat. Elle est délimitée par le <ref
+target="EA.xml#EA23"
+>mur 1</ref
+>, le <ref
+target="EA.xml#EA24"
+>mur 2</ref
+>, le <ref
+target="EA.xml#EA25"
+>mur 3</ref
+> et la <ref
+target="EA.xml#EA28"
+>cloison 1</ref
+> ; son sol est constitué par la <ref
+target="EA.xml#EA27"
+>fosse 1</ref
+>. Elle est ultérieurement comblée par le <ref
+target="EA.xml#EA33"
+>comblement 1</ref
+>.</p
+><list
+type="ES_MCT"
+><head
+>Appellation Marie-Claude Taupin</head
+><item
+>Fosse "a"</item
+></list
+><list
+type="ES_fonction"
+><head
+>Fonction</head
+><item
+>Non identifiée</item
+></list
+><list
+type="ES_dimensions"
+><head
+>Dimensions</head
+><item
+>L x l: <unit
+>4 x 2 m</unit
+></item
+><item
+>Superficie : <unit
+></unit
+></item
+></list
+><list
+type="ES_localisation"
+><head
+>Localisation</head
+><item
+>Angle est de la moitié nord de l'habitat</item
+></list
+><list
+rend="oui"
+type="ES_excave"
+><item
+>Profondeur : <unit
+>0,3 m</unit
+></item
+></list
+><list
+type="ES_compositionEA"
+><head
+>Composition (EA)</head
+><item
+><ref
+>EA23</ref
+></item
+><item
+><ref
+target="EA.xml#EA24"
+>EA24</ref
+></item
+><item
+><ref
+target="EA.xml#EA25"
+>EA25</ref
+></item
+><item
+><ref
+target="EA.xml#EA27"
+>EA27</ref
+></item
+><item
+><ref
+target="EA.xml#EA28"
+>EA28</ref
+></item
+><item
+><ref
+target="EA.xml#EA33"
+>EA33</ref
+></item
+></list
+><list
+type="ES_mobilier_associe"
+><head
+>Mobilier associé</head
+><item
+>Céramique :</item
+><item
+>Objets métalliques :</item
+><item
+>Objets lithiques :</item
+><item
+>Faune :</item
+><item
+>Autres :</item
+></list
+><list
+type="groupe_diapos"
+><head
+>Titre du groupe de diapo</head
+><item
+></item
+><figure
+type="diapo"
+><graphic
+url="../../Diapositives_interpretations/13:13_287.png"
+></graphic
+><head
+>13/13_287</head
+><figDesc
+>Vue d'une partie de la pièce 1 depuis le sud-est.</figDesc
+></figure
+><figure
+place="margin"
+type="diapo"
+><graphic
+url="../../Diapositives_interpretations/13:13_319.png"
+></graphic
+><head
+>13/13_319</head
+><figDesc
+>Au premier plan, on distingue le sol de la pièce 2 et en arrière-plan, celui de la pièce 1 ; cliché pris depuis le nord-ouest.</figDesc
+></figure
+></list
+><note
+type="commentaires"
+>A été comblée ultérieurement par des débris de roche</note
+></div
+><div
+subtype="entites_spatiales"
+type="section2"
+xml:id="ET1_GI72_HAB72_ES2"
+><head
+type="general"
+>Habitat 72 - Pièce 2</head
+><p
+>La fonction de la <ref
+target="ET1_GI72.xml#ET1_GI72_HAB72_ES2"
+>deuxième pièce</ref
+> est également inconnue ; elle est originellement désignée comme la « partie sud-ouest ». Elle mesure 3,6 x 3,9m et n’est pas excavée ; elle occupe l’angle ouest de la moitié nord de l’habitat. Elle est délimitée par le <ref
+target="EA.xml#EA23"
+>mur 1</ref
+>, le <ref
+target="EA.xml#EA24"
+>mur 2</ref
+>, le <ref
+target="EA.xml#EA25"
+>mur 3</ref
+> et la <ref
+target="EA.xml#EA28"
+>cloison 1</ref
+> et son sol est constitué par le <ref
+target="EA.xml#EA29"
+>sol 1</ref
+> ; on y accède par l’<ref
+target="EA.xml#EA67"
+>entrée 15</ref
+>. Le mur 2 comporte le trou de <ref
+target="EA.xml#EA68"
+>poteau 6</ref
+> dont la fonction n’a pas été identifiée. Elle est ultérieurement comblée par le <ref
+target="EA.xml#EA33"
+>comblement 1</ref
+>.</p
+><list
+type="ES_MCT"
+><head
+>Appellation Marie-Claude Taupin</head
+><item
+>"Partie sud-ouest"</item
+></list
+><list
+type="ES_fonction"
+><head
+>Fonction</head
+><item
+>Inconnue</item
+></list
+><list
+type="ES_dimensions"
+><head
+>Dimensions</head
+><item
+>L x l : <unit
+>3,6 x 3,9m</unit
+></item
+><item
+>Superficie : <unit
+></unit
+></item
+></list
+><list
+type="ES_localisation"
+><head
+>Localisation</head
+><item
+>Angle ouest de la moitié nord de l'habitat</item
+></list
+><list
+rend="non"
+type="ES_excave"
+><item
+>Profondeur : <unit
+></unit
+></item
+></list
+><list
+type="ES_compositionEA"
+><head
+>Composition (EA)</head
+><item
+><ref
+>EA23</ref
+></item
+><item
+><ref
+target="EA.xml#EA24"
+>EA24</ref
+></item
+><item
+><ref
+target="EA.xml#EA25"
+>EA25</ref
+></item
+><item
+><ref
+target="EA.xml#EA28"
+>EA28</ref
+></item
+><item
+><ref
+target="EA.xml#EA29"
+>EA29</ref
+></item
+><item
+><ref
+target="EA.xml#EA33"
+>EA33</ref
+></item
+><item
+><ref
+target="EA.xml#EA67"
+>EA67</ref
+></item
+><item
+><ref
+target="EA.xml#EA68"
+>EA68</ref
+></item
+></list
+><list
+type="ES_mobilier_associe"
+><head
+>Mobilier associé</head
+><item
+>Céramique :</item
+><item
+>Objets métalliques :</item
+><item
+>Objets lithiques :</item
+><item
+>Faune :</item
+><item
+>Autres :</item
+></list
+><list
+type="groupe_diapos"
+><head
+>Titre du groupe de diapo</head
+><item
+></item
+><figure
+place="margin"
+type="diapo"
+><graphic
+url="../../Diapositives_interpretations/13:13_319.png"
+></graphic
+><head
+>13/13_319</head
+><figDesc
+>Au premier plan, on distingue le sol de la pièce 2 et, en arrière plan, celui de la pièce 1 ; cliché pris depuis le nord-ouest.</figDesc
+></figure
+></list
+><note
+type="commentaires"
+>C'est l'existence de l'EA29 - FAIT9 qui nous permet de distinguer deux zones dans cette moitié nord =&gt; à vérifier sur une diapositive</note
+></div
+><div
+subtype="entites_spatiales"
+type="section2"
+xml:id="ET1_GI72_HAB72_ES3"
+><head
+type="general"
+>Habitat 72 - Pièce 3</head
+><p
+>Enfin, la <ref
+target="ET1_GI72.xml#ET1_GI72_HAB72_ES3"
+>troisième pièce</ref
+>, « salle b » dans le rapport, est la pièce de vie. Elle mesure 7,2 x 2,9m, n’est pas excavée et occupe la partie sud-ouest de la maison. Elle est délimitée par le <ref
+target="EA.xml#EA24"
+>mur 2</ref
+>, le <ref
+target="EA.xml#EA25"
+>mur 3</ref
+>, le <ref
+target="EA.xml#EA26"
+>mur 4</ref
+> et la <ref
+target="EA.xml#EA28"
+>cloison 1</ref
+>. On y accède depuis l’extérieur par l’<ref
+target="EA.xml#EA31"
+>entrée 1</ref
+> et l’<ref
+target="EA.xml#EA67"
+>entrée 15</ref
+> donne accès à la pièce 2. Le <ref
+target="EA.xml#EA32"
+>foyer 1</ref
+> est appuyé sur le mur 4, au centre de celui-ci. La <ref
+target="EA.xml#EA118"
+>fosse 10</ref
+> se situe entre le foyer 1 et le mur 4 mais son attribution à cette phase est incertaine. Cette pièce est ultérieurement comblée par le <ref
+target="EA.xml#EA33"
+>comblement 1</ref
+>.</p
+><list
+type="ES_MCT"
+><head
+>Appellation Marie-Claude Taupin</head
+><item
+>Salle "b"</item
+></list
+><list
+type="ES_fonction"
+><head
+>Fonction</head
+><item
+>Pièce de vie</item
+></list
+><list
+type="ES_dimensions"
+><head
+>Dimensions</head
+><item
+>L x l : <unit
+>7,2 x 2,9m</unit
+></item
+><item
+>Superficie : <unit
+></unit
+></item
+></list
+><list
+type="ES_localisation"
+><head
+>Localisation</head
+><item
+>Partie sud-ouest du bâtiment</item
+></list
+><list
+rend="?"
+type="ES_excave"
+><item
+>Profondeur : <unit
+></unit
+></item
+></list
+><list
+type="ES_compositionEA"
+><head
+>Composition (EA)</head
+><item
+><ref
+target="EA.xml#EA24"
+>EA24</ref
+></item
+><item
+><ref
+target="EA.xml#EA25"
+>EA25</ref
+></item
+><item
+><ref
+target="EA.xml#EA26"
+>EA26</ref
+></item
+><item
+><ref
+target="EA.xml#EA28"
+>EA28</ref
+></item
+><item
+><ref
+target="EA.xml#EA31"
+>EA31</ref
+></item
+><item
+><ref
+target="EA.xml#EA32"
+>EA32</ref
+></item
+><item
+><ref
+target="EA.xml#EA33"
+>EA33</ref
+></item
+><item
+><ref
+target="EA.xml#EA67"
+>EA67</ref
+></item
+><item
+><ref
+target="EA.xml#EA118"
+>EA118</ref
+></item
+></list
+><list
+type="ES_mobilier_associe"
+><head
+>Mobilier associé</head
+><item
+>Céramique :</item
+><item
+>Objets métalliques :</item
+><item
+>Objets lithiques :</item
+><item
+>Faune :</item
+><item
+>Autres :</item
+></list
+><list
+type="groupe_diapos"
+><head
+>Titre du groupe de diapo</head
+><item
+></item
+><figure
+place="margin"
+type="diapo"
+><graphic
+url="../../Diapositives_interpretations/13:13_293.png"
+></graphic
+><head
+>13/13_293</head
+><figDesc
+>La moitié inférieure de cette photographie montre la pièce 3. On distingue au centre des trous de poteau constituant la cloison 1 (EA28) ainsi que l'entrée 15 (EA67) ; prise du sud-ouest.</figDesc
+></figure
+><figure
+type="diapo"
+><graphic
+url="???"
+></graphic
+><head
+>8/8_2_19.jpg</head
+><figDesc
+>Entrée 1 (EA31) ; photographie prise du nord-est.</figDesc
+></figure
+><figure
+type="diapo"
+><graphic
+url="???"
+></graphic
+><head
+>13/13_304.jpg</head
+><figDesc
+>Au premier plan, on voit la crapaudine intégrée dans le FAIT91 et qui sert à l'entrée 15 (EA67) ; photographie prise du sud-ouest.</figDesc
+></figure
+></list
+><note
+type="commentaires"
+></note
+></div
+></div
+><div
+subtype="entites_spatiales_structurees"
+type="section2"
+xml:id="ET1_GI72_CUR72_1"
+><head
+type="general"
+>Cour 72-1</head
+><p
+>Il s'agit de la cour liée à l'<ref
+target="ET1_GI72.xml#ET1_GI72_HAB72"
+>habitat</ref
+>. Elle est localisée au sud-est de la maison et est accessible depuis celle-ci par l’<ref
+target="EA.xml#EA31"
+>entrée 1</ref
+>. Seule une partie restreinte de l'aire a été fouillée en 1990, on ignore donc tout de ses dimensions.</p
+><list
+type="ESS_chronologie"
+><head
+>Chronologie initiale</head
+><item
+>État: <num
+type="etat"
+>1</num
+></item
+><item
+>Datation : Avant le <date
+notAfter="1299"
+notBefore="1250"
+type="datation_absolue"
+>XIV</date
+><hi
+rend="sup"
+>e</hi
+> siècle</item
+></list
+><list
+type="ESS_localisation"
+><head
+>Localisation</head
+><item
+>Au sud-est de la maison.</item
+></list
+><list
+type="ESS_morphologie"
+><head
+>Morphologie générale</head
+><item
+>Plan :</item
+><item
+>Dimensions<list
+><item
+>L x l : <unit
+></unit
+></item
+><item
+>Surface hors tout : <unit
+></unit
+></item
+><item
+>Surface utile : <unit
+></unit
+></item
+></list
+></item
+><item
+>Matériaux<list
+><item
+>Couverture :</item
+><item
+>Murs :</item
+></list
+></item
+></list
+><list
+type="ESS_fonction"
+><head
+>Fonction</head
+><item
+>Cour</item
+></list
+><list
+type="groupe_diapos"
+><head
+>Titre du groupe de diapo</head
+><item
+></item
+><figure
+type="diapo"
+><graphic
+url="???"
+></graphic
+><head
+>Identifiant de la diapo</head
+><figDesc
+>légende</figDesc
+></figure
+></list
+><note
+type="commentaires"
+>Il sera utile de compléter cette fiche à l'aide des informations recueillies lors de la campagne 1994.</note
+></div
+></div
+></body
+></text
+></TEI
+>
